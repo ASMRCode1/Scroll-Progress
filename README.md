@@ -8,5 +8,5 @@ Here we have project screenshot :
 
 # AsmrCode
 
-We create a project each 4 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
+We create a project each 4 days with voting on our <a href="[https://youtube.com/@AsmrProg](https://www.youtube.com/@ASMRcode1)" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
